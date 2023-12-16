@@ -1,0 +1,14 @@
+body{
+    width:300px;
+}
+
+.section{
+    padding: 4px;
+    gap: 8px;
+}
+
+.button{
+    color: black;
+    background-color:white;
+    padding: 4px;
+}
